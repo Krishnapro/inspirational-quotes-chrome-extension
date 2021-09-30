@@ -13,6 +13,9 @@ body {
   }
   .card-body {
       background-color: rgb(70, 115, 240);
+      color: #fff;
+      text-align: start;
+      font-size: 15px;
       width: 100%;
     padding: 2px;
   }
