@@ -1,21 +1,22 @@
 body {
-    /* min-height: 100vh; */
-    /* background-image: linear-gradient(rgb(185, 100, 19),rgb(216, 141, 42),green); */
-    width: 90%;
+    background-color: rgb(42, 3, 104);
+    width: 30rem !important;
+    padding: 0;
+    margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
   .card {
-    width: 90%;
-    max-width: 700rem;
+    /* width: 40rem !important; */
+    /* max-width: 700rem !important; */
+    padding: 0;
+    margin: 0;
   }
   .card-body {
-      background-color: rgb(70, 115, 240);
       color: #fff;
-      text-align: start;
-      font-size: 15px;
-      width: 100%;
-    padding: 2px;
+      text-align: center !important;
+      font-size: 15px !important;
+      width: 100% !important;
   }

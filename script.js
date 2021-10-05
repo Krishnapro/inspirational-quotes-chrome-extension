@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log(data);
       }
     }
-  
     // call updateQuote once when page loads
     updateQuote();
   });
