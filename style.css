@@ -9,8 +9,7 @@ body {
     justify-content: center;
   }
   .card {
-    /* width: 40rem !important; */
-    /* max-width: 700rem !important; */
+     
     padding: 0;
     margin: 0;
   }
