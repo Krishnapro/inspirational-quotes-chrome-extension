@@ -70,6 +70,6 @@ git push -u origin <your_branch_name>
 12. To create a pull request, click on compare and pull requests.
 
 ## The contributors 🎉
-<a href="https://github.com/evilseye/inspirational-quotes-chrome-extension/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=evilseye/inspirational-quotes-chrome-extension" />
+<a href="https://github.com/Krishnapro/inspirational-quotes-chrome-extension/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Krishnapro/inspirational-quotes-chrome-extension" />
 </a>
