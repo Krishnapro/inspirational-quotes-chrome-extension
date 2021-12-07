@@ -1,4 +1,5 @@
-# <p align="center">Chrome Extension</p>
+# <p align="center"><a href="https://chrome.google.com/webstore/detail/inspirational-quotes/cmdekfejapkaekmoenblkjncaafophfo">Chrome Extension</a></p>
+
 This is a Inspirational chrome extension. which is show inspirational and motivational quotes on every click. **It is created with a sole intent of helping newbies into Open Source Contribution by guiding then to thir intial Pull Requestes.**
 
 **Inspirational Quotes Extension** is in its initial stages, Contribute to it in every possible way you can: Bug fixes, Documentation, Indentation or even suggest your own issues etc.
