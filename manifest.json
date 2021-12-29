@@ -8,7 +8,5 @@
   },
   "icons": {
     "128": "logo.png"
-  },
-
-  "permissions": ["activeTab"]
+  }
 }
